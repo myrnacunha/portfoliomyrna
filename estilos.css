@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://images.hdqwalls.com/wallpapers/bthumb/firewatch-minimalism-0u.jpg");
+    background-size: 220vh;
+    font-family: Courier;
+    height: 100vh;
+   }
+  .menu {
+    background-color: black
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+      text-align: center;
+      color: black
+  }
+  
+  .site-subtitle {
+    color: black
+  }  
